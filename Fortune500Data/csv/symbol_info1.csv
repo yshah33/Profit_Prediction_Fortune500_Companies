@@ -1,0 +1,501 @@
+Name,Sector,Symbol
+Walmart,General Merchandisers,WMT
+Amazon.com,Internet Services and Retailing,AMZN
+Exxon Mobil,Petroleum Refining,XOM
+Apple,"Computers, Office Equipment",AAPL
+UnitedHealth Group,Health Care: Insurance and Managed Care,UNH
+CVS Health,Health Care: Pharmacy and Other Services,CVS
+Berkshire Hathaway,Insurance: Property and Casualty (Stock),BRKA
+Alphabet,Internet Services and Retailing,GOOGL
+McKesson,Wholesalers: Health Care,MCK
+Chevron,Petroleum Refining,CVX
+AmerisourceBergen,Wholesalers: Health Care,ABC
+Costco Wholesale,General Merchandisers,COST
+Microsoft,Computer Software,MSFT
+Cardinal Health,Wholesalers: Health Care,CAH
+Cigna Group,Health Care: Pharmacy and Other Services,CI
+Marathon Petroleum,Petroleum Refining,MPC
+Phillips 66,Petroleum Refining,PSX
+Valero Energy,Petroleum Refining,VLO
+Ford Motor,Motor Vehicles & Parts,F
+Home Depot,Specialty Retailers: Other,HD
+General Motors,Motor Vehicles & Parts,GM
+Elevance Health,Health Care: Insurance and Managed Care,ELV
+JPMorgan Chase,Commercial Banks,JPM
+Kroger,Food and Drug Stores,KR
+Centene,Health Care: Insurance and Managed Care,CNC
+Verizon Communications,Telecommunications,VZ
+Walgreens Boots Alliance,Food and Drug Stores,WBA
+Fannie Mae,Diversified Financials,FNMA
+Comcast,Telecommunications,CMCSA
+AT&T,Telecommunications,T
+Meta Platforms,Internet Services and Retailing,META
+Bank of America,Commercial Banks,BAC
+Target,General Merchandisers,TGT
+Dell Technologies,"Computers, Office Equipment",DELL
+Archer Daniels Midland,Food Production,ADM
+Citigroup,Commercial Banks,C
+United Parcel Service,"Mail, Package and Freight Delivery",UPS
+Pfizer,Pharmaceuticals,PFE
+Lowe's,Specialty Retailers: Other,LOW
+Johnson & Johnson,Pharmaceuticals,JNJ
+FedEx,"Mail, Package and Freight Delivery",FDX
+Humana,Health Care: Insurance and Managed Care,HUM
+Energy Transfer,Pipelines,ET
+State Farm Insurance,Insurance: Property and Casualty (Mutual),
+Freddie Mac,Diversified Financials,FMCC
+PepsiCo,Food Consumer Products,PEP
+Wells Fargo,Commercial Banks,WFC
+Walt Disney,Entertainment,DIS
+ConocoPhillips,"Mining, Crude-Oil Production",COP
+Tesla,Motor Vehicles & Parts,TSLA
+Procter & Gamble,Household and Personal Products,PG
+General Electric,Industrial Machinery,GE
+Albertsons,Food and Drug Stores,ACI
+MetLife,"Insurance: Life, Health (Stock)",MET
+Goldman Sachs Group,Commercial Banks,GS
+Sysco,Wholesalers: Food and Grocery,SYY
+Raytheon Technologies,Aerospace & Defense,RTX
+Boeing,Aerospace & Defense,BA
+StoneX Group,Diversified Financials,SNEX
+Lockheed Martin,Aerospace & Defense,LMT
+Morgan Stanley,Commercial Banks,MS
+Intel,Semiconductors and Other Electronic Components,INTC
+HP,"Computers, Office Equipment",HPQ
+TD Synnex,Wholesalers: Electronics and Office Equipment,SNX
+International Business Machines,Information Technology Services,IBM
+HCA Healthcare,Health Care: Medical Facilities,HCA
+Prudential Financial,"Insurance: Life, Health (Stock)",PRU
+Caterpillar,Construction and Farm Machinery,CAT
+Merck,Pharmaceuticals,MRK
+World Fuel Services,Energy,INT
+New York Life Insurance,"Insurance: Life, Health (Mutual)",
+Enterprise Products Partners,Pipelines,EPD
+AbbVie,Pharmaceuticals,ABBV
+Plains GP Holdings,Pipelines,PAGP
+Dow,Chemicals,DOW
+American International Group,Insurance: Property and Casualty (Stock),AIG
+American Express,Diversified Financials,AXP
+Publix Super Markets,Food and Drug Stores,
+Charter Communications,Telecommunications,CHTR
+Tyson Foods,Food Production,TSN
+Deere,Construction and Farm Machinery,DE
+Cisco Systems,Network and Other Communications Equipment,CSCO
+Nationwide,Insurance: Property and Casualty (Mutual),
+Allstate,Insurance: Property and Casualty (Stock),ALL
+Delta Air Lines,Airlines,DAL
+Liberty Mutual Insurance Group,Insurance: Property and Casualty (Stock),
+TJX,Specialty Retailers: Apparel,TJX
+Progressive,Insurance: Property and Casualty (Stock),PGR
+American Airlines Group,Airlines,AAL
+CHS,Food Production,
+Performance Food Group,Wholesalers: Food and Grocery,PFGC
+PBF Energy,Petroleum Refining,PBF
+Nike,Apparel,NKE
+Best Buy,Specialty Retailers: Other,BBY
+Bristol-Myers Squibb,Pharmaceuticals,BMY
+United Airlines Holdings,Airlines,UAL
+Thermo Fisher Scientific,"Scientific, Photographic and Control Equipment",TMO
+Qualcomm,Semiconductors and Other Electronic Components,QCOM
+Abbott Laboratories,Medical Products and Equipment,ABT
+Coca-Cola,Beverages,KO
+Oracle,Computer Software,ORCL
+Nucor,Metals,NUE
+TIAA,"Insurance: Life, Health (Mutual)",
+Massachusetts Mutual Life Insurance,"Insurance: Life, Health (Mutual)",
+General Dynamics,Aerospace & Defense,GD
+Capital One Financial,Commercial Banks,COF
+HF Sinclair,Petroleum Refining,DINO
+Dollar General,Specialty Retailers: Other,DG
+Arrow Electronics,Wholesalers: Electronics and Office Equipment,ARW
+Occidental Petroleum,"Mining, Crude-Oil Production",OXY
+Northwestern Mutual,"Insurance: Life, Health (Mutual)",
+Travelers,Insurance: Property and Casualty (Stock),TRV
+Northrop Grumman,Aerospace & Defense,NOC
+United Services Automobile Assn.,Insurance: Property and Casualty (Stock),
+Honeywell International,"Electronics, Electrical Equip.",HON
+3M,Chemicals,MMM
+US Foods Holding,Wholesalers: Food and Grocery,USFD
+Warner Bros. Discovery,Entertainment,WBD
+Lennar,Homebuilders,LEN
+D.R. Horton,Homebuilders,DHI
+Jabil,Semiconductors and Other Electronic Components,JBL
+Cheniere Energy,Pipelines,LNG
+Broadcom,Semiconductors and Other Electronic Components,AVGO
+CarMax,"Automotive Retailing, Services",KMX
+Starbucks,Food Services,SBUX
+Molina Healthcare,Health Care: Insurance and Managed Care,MOH
+Uber Technologies,Internet Services and Retailing,UBER
+Philip Morris International,Tobacco,PM
+Netflix,Entertainment,NFLX
+NRG Energy,Energy,NRG
+Mondelez International,Food Consumer Products,MDLZ
+Danaher,Medical Products and Equipment,DHR
+Salesforce,Computer Software,CRM
+Paramount Global,Entertainment,PARA
+CBRE Group,Real Estate,CBRE
+Micron Technology,Semiconductors and Other Electronic Components,MU
+Visa,Financial Data Services,V
+Southern,Utilities: Gas and Electric,SO
+United Natural Foods,Wholesalers: Food and Grocery,UNFI
+Paccar,Motor Vehicles & Parts,PCAR
+Duke Energy,Utilities: Gas and Electric,DUK
+Eli Lilly,Pharmaceuticals,LLY
+Hewlett Packard Enterprise,"Computers, Office Equipment",HPE
+Dollar Tree,Specialty Retailers: Other,DLTR
+Lithia Motors,"Automotive Retailing, Services",LAD
+Cummins,Industrial Machinery,CMI
+Penske Automotive Group,"Automotive Retailing, Services",PAG
+PayPal Holdings,Financial Data Services,PYPL
+U.S. Bancorp,Commercial Banks,USB
+Gilead Sciences,Pharmaceuticals,GILD
+AutoNation,"Automotive Retailing, Services",AN
+Nvidia,Semiconductors and Other Electronic Components,NVDA
+Kraft Heinz,Food Consumer Products,KHC
+Amgen,Pharmaceuticals,AMGN
+Applied Materials,Semiconductors and Other Electronic Components,AMAT
+EOG Resources,"Mining, Crude-Oil Production",EOG
+Truist Financial,Commercial Banks,TFC
+Macy's,General Merchandisers,M
+Union Pacific,Railroads,UNP
+C.H. Robinson Worldwide,Transportation and Logistics,CHRW
+Rite Aid,Food and Drug Stores,RAD
+Constellation Energy,Energy,CEG
+Avnet,Wholesalers: Electronics and Office Equipment,AVT
+Pioneer Natural Resources,"Mining, Crude-Oil Production",PXD
+Southwest Airlines,Airlines,LUV
+CDW,Information Technology Services,CDW
+Advanced Micro Devices,Semiconductors and Other Electronic Components,AMD
+PNC Financial Services Group,Commercial Banks,PNC
+McDonald's,Food Services,MCD
+Cleveland-Cliffs,Metals,CLF
+Freeport-McMoRan,"Mining, Crude-Oil Production",FCX
+Builders FirstSource,"Building Materials, Glass",BLDR
+Oneok,Pipelines,OKE
+Hartford Financial Services Group,Insurance: Property and Casualty (Stock),HIG
+Charles Schwab,Securities,SCHW
+Steel Dynamics,Metals,STLD
+Mastercard,Financial Data Services,MA
+Sherwin-Williams,Chemicals,SHW
+Genuine Parts,Wholesalers: Diversified,GPC
+PG&E,Utilities: Gas and Electric,PCG
+WESCO International,Wholesalers: Diversified,WCC
+Murphy USA,Specialty Retailers: Other,MUSA
+WestRock,"Packaging, Containers",WRK
+International Paper,"Packaging, Containers",IP
+Baker Hughes,"Oil and Gas Equipment, Services",BKR
+United States Steel,Metals,X
+NextEra Energy,Utilities: Gas and Electric,NEE
+Targa Resources,Pipelines,TRGP
+Lear,Motor Vehicles & Parts,LEA
+Jones Lang LaSalle,Real Estate,JLL
+Goodyear Tire & Rubber,Motor Vehicles & Parts,GT
+Marriott International,"Hotels, Casinos, Resorts",MAR
+Marsh & McLennan,Diversified Financials,MMC
+Altria Group,Tobacco,MO
+Coupang,Internet Services and Retailing,CPNG
+Carrier Global,Industrial Machinery,CARR
+Halliburton,"Oil and Gas Equipment, Services",HAL
+Delek US Holdings,Petroleum Refining,DK
+Kimberly-Clark,Household and Personal Products,KMB
+Texas Instruments,Semiconductors and Other Electronic Components,TXN
+Bank of New York Mellon,Commercial Banks,BK
+ManpowerGroup,Temporary Help,MAN
+Whirlpool,"Electronics, Electrical Equip.",WHR
+Waste Management,Waste Management,WM
+American Electric Power,Utilities: Gas and Electric,AEP
+Emerson Electric,Industrial Machinery,EMR
+Aflac,"Insurance: Life, Health (Stock)",AFL
+Cognizant Technology Solutions,Information Technology Services,CTSH
+Becton Dickinson,Medical Products and Equipment,BDX
+BJ's Wholesale Club,General Merchandisers,BJ
+Moderna,Pharmaceuticals,MRNA
+DTE Energy,Utilities: Gas and Electric,DTE
+Land O'Lakes,Food Consumer Products,
+Kinder Morgan,Pipelines,KMI
+Tenet Healthcare,Health Care: Medical Facilities,THC
+Devon Energy,"Mining, Crude-Oil Production",DVN
+Mosaic,Chemicals,MOS
+Exelon,Utilities: Gas and Electric,EXC
+General Mills,Food Consumer Products,GIS
+Global Partners,Wholesalers: Diversified,GLP
+Western Digital,"Computers, Office Equipment",WDC
+Lincoln National,"Insurance: Life, Health (Stock)",LNC
+Ross Stores,Specialty Retailers: Apparel,ROST
+Stryker,Medical Products and Equipment,SYK
+Kyndryl Holdings,Information Technology Services,KD
+Kohl's,General Merchandisers,KSS
+Stanley Black & Decker,"Home Equipment, Furnishings",SWK
+Colgate-Palmolive,Household and Personal Products,CL
+BlackRock,Securities,BLK
+Fiserv,Financial Data Services,FISV
+Estée Lauder,Household and Personal Products,EL
+PPG Industries,Chemicals,PPG
+Adobe,Computer Software,ADBE
+Block,Financial Data Services,SQ
+Synchrony Financial,Diversified Financials,SYF
+Principal Financial,"Insurance: Life, Health (Stock)",PFG
+Lumen Technologies,Telecommunications,LUMN
+Corteva,Food Production,CTVA
+Andersons,Food Production,ANDE
+Lam Research,Semiconductors and Other Electronic Components,LRCX
+Edison International,Utilities: Gas and Electric,EIX
+Dominion Energy,Utilities: Gas and Electric,D
+Booking Holdings,Internet Services and Retailing,BKNG
+Quanta Services,Engineering & Construction,PWR
+Expeditors International of Washington,Transportation and Logistics,EXPD
+L3Harris Technologies,Aerospace & Defense,LHX
+Reliance Steel & Aluminum,Metals,RS
+Live Nation Entertainment,Entertainment,LYV
+DISH Network,Telecommunications,DISH
+DuPont,Chemicals,DD
+Automatic Data Processing,Diversified Outsourcing Services,ADP
+Group 1 Automotive,"Automotive Retailing, Services",GPI
+Aramark,Diversified Outsourcing Services,ARMK
+Thor Industries,Motor Vehicles & Parts,THO
+DXC Technology,Information Technology Services,DXC
+Viatris,Pharmaceuticals,VTRS
+Reinsurance Group of America,"Insurance: Life, Health (Stock)",RGA
+AutoZone,Specialty Retailers: Other,AZO
+PulteGroup,Homebuilders,PHM
+Illinois Tool Works,Industrial Machinery,ITW
+Parker-Hannifin,Industrial Machinery,PH
+BorgWarner,Motor Vehicles & Parts,BWA
+Westlake,Chemicals,WLK
+Consolidated Edison,Utilities: Gas and Electric,ED
+Gap,Specialty Retailers: Apparel,GPS
+Opendoor Technologies,Internet Services and Retailing,OPEN
+Nordstrom,General Merchandisers,JWN
+Asbury Automotive Group,"Automotive Retailing, Services",ABG
+Ball,"Packaging, Containers",BALL
+Kellogg,Food Consumer Products,K
+Xcel Energy,Utilities: Gas and Electric,XEL
+W.W. Grainger,Wholesalers: Diversified,GWW
+Discover Financial Services,Commercial Banks,DFS
+Baxter International,Medical Products and Equipment,BAX
+Southwestern Energy,"Mining, Crude-Oil Production",SWN
+DCP Midstream,Pipelines,DCP
+Jacobs Solutions,Engineering & Construction,J
+Laboratory Corp. of America,Health Care: Pharmacy and Other Services,LH
+CSX,Railroads,CSX
+J.B. Hunt Transport Services,"Trucking, Truck Leasing",JBHT
+Guardian Life Ins. Co. of America,"Insurance: Life, Health (Mutual)",
+Jackson Financial,"Insurance: Life, Health (Stock)",JXN
+Fidelity National Information Services,Financial Data Services,FIS
+Berry Global Group,"Packaging, Containers",BERY
+Sempra,Utilities: Gas and Electric,SRE
+IQVIA Holdings,Health Care: Pharmacy and Other Services,IQV
+O'Reilly Automotive,Specialty Retailers: Other,ORLY
+Leidos Holdings,Information Technology Services,LDOS
+Ameriprise Financial,Diversified Financials,AMP
+Omnicom Group,"Advertising, Marketing",OMC
+Tractor Supply,Specialty Retailers: Other,TSCO
+Corning,"Electronics, Electrical Equip.",GLW
+Ecolab,Chemicals,ECL
+Icahn Enterprises,Diversified Financials,IEP
+Farmers Insurance Exchange,Insurance: Property and Casualty (Mutual),
+Keurig Dr Pepper,Beverages,KDP
+Loews,Insurance: Property and Casualty (Stock),L
+Equitable Holdings,"Insurance: Life, Health (Stock)",EQH
+Sonic Automotive,"Automotive Retailing, Services",SAH
+Fox,Entertainment,FOXA
+American Family Insurance Group,Insurance: Property and Casualty (Stock),
+Entergy,Utilities: Gas and Electric,ETR
+Fluor,Engineering & Construction,FLR
+Vistra,Energy,VST
+State Street,Commercial Banks,STT
+Otis Worldwide,Industrial Machinery,OTIS
+Peter Kiewit Sons',Engineering & Construction,
+Carvana,"Automotive Retailing, Services",CVNA
+Republic Services,Waste Management,RSG
+AECOM,Engineering & Construction,ACM
+Universal Health Services,Health Care: Medical Facilities,UHS
+Pacific Life,"Insurance: Life, Health (Stock)",
+VMware,Computer Software,VMW
+Western & Southern Financial Group,"Insurance: Life, Health (Mutual)",
+MGM Resorts International,"Hotels, Casinos, Resorts",MGM
+Casey's General Stores,Specialty Retailers: Other,CASY
+Crown Holdings,"Packaging, Containers",CCK
+Textron,Aerospace & Defense,TXT
+LKQ,Wholesalers: Diversified,LKQ
+Norfolk Southern,Railroads,NSC
+Intuit,Computer Software,INTU
+Air Products & Chemicals,Chemicals,APD
+Boston Scientific,Medical Products and Equipment,BSX
+AGCO,Construction and Farm Machinery,AGCO
+Henry Schein,Wholesalers: Health Care,HSIC
+Amphenol,Network and Other Communications Equipment,APH
+AES,Utilities: Gas and Electric,AES
+Mutual of Omaha Insurance,"Insurance: Life, Health (Mutual)",
+Ovintiv,"Mining, Crude-Oil Production",OVV
+Hormel Foods,Food Consumer Products,HRL
+Alcoa,Metals,AA
+International Flavors & Fragrances,Chemicals,IFF
+Jones Financial (Edward Jones),Securities,
+Dick's Sporting Goods,Specialty Retailers: Other,DKS
+Eversource Energy,Utilities: Gas and Electric,ES
+Wayfair,Internet Services and Retailing,W
+Community Health Systems,Health Care: Medical Facilities,CYH
+Ally Financial,Diversified Financials,ALLY
+Regeneron Pharmaceuticals,Pharmaceuticals,REGN
+Liberty Media,Entertainment,LSXMA
+APA,"Mining, Crude-Oil Production",APA
+Qurate Retail,Internet Services and Retailing,QRTEA
+FirstEnergy,Utilities: Gas and Electric,FE
+Analog Devices,Semiconductors and Other Electronic Components,ADI
+Ryder System,Transportation and Logistics,R
+Avis Budget Group,"Automotive Retailing, Services",CAR
+Unum Group,"Insurance: Life, Health (Stock)",UNM
+Newmont,"Mining, Crude-Oil Production",NEM
+VF,Apparel,VFC
+Chesapeake Energy,"Mining, Crude-Oil Production",CHK
+Mohawk Industries,"Home Equipment, Furnishings",MHK
+Markel,Insurance: Property and Casualty (Stock),MKL
+Expedia Group,Internet Services and Retailing,EXPE
+Caesars Entertainment,"Hotels, Casinos, Resorts",CZR
+United Rentals,Equipment Leasing,URI
+Apollo Global Management,Securities,APO
+DaVita,Health Care: Medical Facilities,DVA
+Hess,"Mining, Crude-Oil Production",HES
+Fidelity National Financial,Insurance: Property and Casualty (Stock),FNF
+Conagra Brands,Food Consumer Products,CAG
+Univar Solutions,Wholesalers: Diversified,UNVR
+Auto-Owners Insurance,Insurance: Property and Casualty (Mutual),
+Raymond James Financial,Securities,RJF
+Seaboard,Food Production,SEB
+CF Industries Holdings,Chemicals,CF
+S&P Global,Financial Data Services,SPGI
+W.R. Berkley,Insurance: Property and Casualty (Stock),WRB
+Advance Auto Parts,Specialty Retailers: Other,AAP
+EMCOR Group,Engineering & Construction,EME
+Williams,Pipelines,WMB
+Interpublic Group,"Advertising, Marketing",IPG
+TravelCenters of America,Specialty Retailers: Other,TA
+American Tower,Real Estate,AMT
+Molson Coors Beverage,Beverages,TAP
+Huntington Ingalls Industries,Aerospace & Defense,HII
+NVR,Homebuilders,NVR
+Eastman Chemical,Chemicals,EMN
+Graybar Electric,Wholesalers: Diversified,
+Insight Enterprises,Information Technology Services,NSIT
+Hershey,Food Consumer Products,HSY
+News Corp.,"Publishing, Printing",NWSA
+Toll Brothers,Homebuilders,TOL
+Ulta Beauty,Specialty Retailers: Other,ULTA
+Assurant,Insurance: Property and Casualty (Stock),AIZ
+Weyerhaeuser,Forest and Paper Products,WY
+Biogen,Pharmaceuticals,BIIB
+Dana,Motor Vehicles & Parts,DAN
+UGI,Utilities: Gas and Electric,UGI
+Chewy,Internet Services and Retailing,CHWY
+Owens & Minor,Wholesalers: Health Care,OMI
+Quest Diagnostics,Health Care: Pharmacy and Other Services,DGX
+Public Service Enterprise Group,Utilities: Gas and Electric,PEG
+Ebay,Internet Services and Retailing,EBAY
+MasTec,Engineering & Construction,MTZ
+Owens Corning,"Building Materials, Glass",OC
+Celanese,Chemicals,CE
+Altice USA,Telecommunications,ATUS
+Alaska Air Group,Airlines,ALK
+SpartanNash,Wholesalers: Food and Grocery,SPTN
+Diamondback Energy,"Mining, Crude-Oil Production",FANG
+Intercontinental Exchange,Securities,ICE
+Darden Restaurants,Food Services,DRI
+UFP Industries,"Building Materials, Glass",UFPI
+WEC Energy Group,Utilities: Gas and Electric,WEC
+Yum China Holdings,Food Services,YUMC
+EnLink Midstream,Pipelines,ENLC
+Continental Resources,"Mining, Crude-Oil Production",
+Newell Brands,"Home Equipment, Furnishings",NWL
+Graphic Packaging Holding,"Packaging, Containers",GPK
+Olin,Chemicals,OLN
+Fifth Third Bancorp,Commercial Banks,FITB
+Thrivent Financial for Lutherans,"Insurance: Life, Health (Mutual)",
+CenterPoint Energy,Utilities: Gas and Electric,CNP
+Erie Insurance Group,Insurance: Property and Casualty (Mutual),
+CommScope Holding,Network and Other Communications Equipment,COMM
+KLA,Semiconductors and Other Electronic Components,KLAC
+JetBlue Airways,Airlines,JBLU
+Motorola Solutions,Network and Other Communications Equipment,MSI
+Citizens Financial Group,Commercial Banks,CFG
+Coterra Energy,"Mining, Crude-Oil Production",CTRA
+Avery Dennison,"Packaging, Containers",AVY
+PVH,Apparel,PVH
+GXO Logistics,Transportation and Logistics,GXO
+Polaris,Transportation Equipment,PII
+Global Payments,Financial Data Services,GPN
+Arconic,Metals,ARNC
+Vertex Pharmaceuticals,Pharmaceuticals,VRTX
+Commercial Metals,Metals,CMC
+Autoliv,Motor Vehicles & Parts,ALV
+Constellation Brands,Beverages,STZ
+Hilton Worldwide Holdings,"Hotels, Casinos, Resorts",HLT
+Foot Locker,Specialty Retailers: Apparel,FL
+Huntsman,Chemicals,HUN
+Burlington Stores,Specialty Retailers: Apparel,BURL
+Hertz Global Holdings,"Automotive Retailing, Services",HTZ
+Masco,"Home Equipment, Furnishings",MAS
+Williams-Sonoma,Specialty Retailers: Other,WSM
+Chipotle Mexican Grill,Food Services,CMG
+M&T Bank,Commercial Banks,MTB
+LPL Financial Holdings,Securities,LPLA
+CMS Energy,Utilities: Gas and Electric,CMS
+Campbell Soup,Food Consumer Products,CPB
+Arthur J. Gallagher,Diversified Financials,AJG
+Blackstone,Diversified Financials,BX
+Dover,Industrial Machinery,DOV
+ODP,Specialty Retailers: Other,ODP
+Packaging Corp. of America,"Packaging, Containers",PKG
+Brighthouse Financial,"Insurance: Life, Health (Stock)",BHF
+Beacon Roofing Supply,Wholesalers: Diversified,BECN
+Airbnb,Internet Services and Retailing,ABNB
+Boise Cascade,Wholesalers: Diversified,BCC
+Booz Allen Hamilton Holding,Information Technology Services,BAH
+Westinghouse Air Brake Technologies,Industrial Machinery,WAB
+ON Semiconductor,Semiconductors and Other Electronic Components,ON
+Oshkosh,Construction and Farm Machinery,OSK
+Franklin Resources,Securities,BEN
+Taylor Morrison Home,Homebuilders,TMHC
+A-Mark Precious Metals,Wholesalers: Diversified,AMRK
+KeyCorp,Commercial Banks,KEY
+ARKO,Specialty Retailers: Other,ARKO
+Lululemon athletica,Specialty Retailers: Apparel,LULU
+Old Republic International,Insurance: Property and Casualty (Stock),ORI
+Zoetis,Pharmaceuticals,ZTS
+Marathon Oil,"Mining, Crude-Oil Production",MRO
+J.M. Smucker,Food Consumer Products,SJM
+Huntington Bancshares,Commercial Banks,HBAN
+NGL Energy Partners,Pipelines,NGL
+Ingredion,Food Production,INGR
+Fortune Brands Innovations,"Building Materials, Glass",FBIN
+PPL,Utilities: Gas and Electric,PPL
+Sanmina,Semiconductors and Other Electronic Components,SANM
+Bed Bath & Beyond,Specialty Retailers: Other,BBBY
+Cintas,Diversified Outsourcing Services,CTAS
+NCR,"Computers, Office Equipment",NCR
+ABM Industries,Diversified Outsourcing Services,ABM
+Rockwell Automation,"Electronics, Electrical Equip.",ROK
+Northern Trust,Commercial Banks,NTRS
+XPO,Transportation and Logistics,XPO
+Science Applications International,Information Technology Services,SAIC
+Ameren,Utilities: Gas and Electric,AEE
+First American Financial,Insurance: Property and Casualty (Stock),FAF
+Bath & Body Works,Specialty Retailers: Other,BBWI
+Regions Financial,Commercial Banks,RF
+Activision Blizzard,Entertainment,ATVI
+Avantor,"Scientific, Photographic and Control Equipment",AVTR
+Genworth Financial,"Insurance: Life, Health (Stock)",GNW
+EQT,Energy,EQT
+Skechers U.S.A.,Apparel,SKX
+Landstar System,"Trucking, Truck Leasing",LSTR
+Knight-Swift Transportation Holdings,"Trucking, Truck Leasing",KNX
+SVB Financial Group,Commercial Banks,SIVBQ
+Par Pacific Holdings,Petroleum Refining,PARR
+Albemarle,Chemicals,ALB
+Vulcan Materials,"Building Materials, Glass",VMC
+Watsco,Wholesalers: Diversified,WSO
+KKR,Securities,KKR
+Equinix,Real Estate,EQIX
+Sonoco Products,"Packaging, Containers",SON
+ServiceNow,Computer Software,NOW
+Robert Half International,Temporary Help,RHI

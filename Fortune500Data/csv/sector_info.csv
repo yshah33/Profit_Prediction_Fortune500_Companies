@@ -1,0 +1,1889 @@
+Company,Industry
+Walmart,Consumer Defensive
+Amazon.com,Consumer Cyclical
+Exxon Mobil,Energy
+Apple,Technology
+UnitedHealth Group,Healthcare
+CVS Health,Healthcare
+Berkshire Hathaway,Financial Services
+Alphabet,Communication Services
+McKesson,Healthcare
+Chevron,Energy
+AmerisourceBergen,Healthcare
+Costco Wholesale,Consumer Defensive
+Microsoft,Technology
+Cardinal Health,Healthcare
+Cigna Group,Healthcare
+Marathon Petroleum,Energy
+Phillips 66,Energy
+Valero Energy,Energy
+Ford Motor,Consumer Cyclical
+Home Depot,Consumer Cyclical
+General Motors,Consumer Cyclical
+Elevance Health,Healthcare
+JPMorgan Chase,Financial Services
+Kroger,Consumer Defensive
+Centene,Healthcare
+Verizon Communications,Communication Services
+Walgreens Boots Alliance,Healthcare
+Fannie Mae,Financial Services
+Comcast,Communication Services
+AT&T,Communication Services
+Meta Platforms,Communication Services
+Bank of America,Financial Services
+Target,Consumer Defensive
+Dell Technologies,Technology
+Archer Daniels Midland,Consumer Defensive
+Citigroup,Financial Services
+United Parcel Service,Industrials
+Pfizer,Healthcare
+Lowe's,Consumer Cyclical
+Johnson & Johnson,Healthcare
+FedEx,Industrials
+Humana,Healthcare
+Energy Transfer,Energy
+State Farm Insurance,Financial Services
+Freddie Mac,Financial Services
+PepsiCo,Consumer Defensive
+Wells Fargo,Financial Services
+Walt Disney,Communication Services
+ConocoPhillips,Energy
+Tesla,Consumer Cyclical
+Procter & Gamble,Consumer Defensive
+General Electric,Industrials
+Albertsons,Consumer Defensive
+MetLife,Financial Services
+Goldman Sachs Group,Financial Services
+Sysco,Consumer Defensive
+Raytheon Technologies,Industrials
+Boeing,Industrials
+StoneX Group,Financial Services
+Lockheed Martin,Industrials
+Morgan Stanley,Financial Services
+Intel,Technology
+HP,Technology
+TD Synnex,Technology
+International Business Machines,Technology
+HCA Healthcare,Healthcare
+Prudential Financial,Financial Services
+Caterpillar,Industrials
+Merck,Healthcare
+World Fuel Services,Energy
+New York Life Insurance,Financial Services
+Enterprise Products Partners,Energy
+AbbVie,Healthcare
+Plains GP Holdings,Energy
+Dow,Basic Materials
+American International Group,Financial Services
+American Express,Financial Services
+Publix Super Markets,Consumer Defensive
+Charter Communications,Communication Services
+Tyson Foods,Consumer Defensive
+Deere,Industrials
+Cisco Systems,Technology
+Nationwide,Financial Services
+Allstate,Financial Services
+Delta Air Lines,Industrials
+Liberty Mutual Insurance Group,Financial Services
+TJX,Consumer Cyclical
+Progressive,Financial Services
+American Airlines Group,Industrials
+CHS,Basic Materials
+Performance Food Group,Consumer Defensive
+PBF Energy,Energy
+Nike,Consumer Cyclical
+Best Buy,Consumer Cyclical
+Bristol-Myers Squibb,Healthcare
+United Airlines Holdings,Industrials
+Thermo Fisher Scientific,Healthcare
+Qualcomm,Technology
+Abbott Laboratories,Healthcare
+Coca-Cola,Consumer Defensive
+Oracle,Technology
+Nucor,Basic Materials
+TIAA,Financial Services
+Massachusetts Mutual Life Insurance,Financial Services
+General Dynamics,Industrials
+Capital One Financial,Financial Services
+HF Sinclair,Energy
+Dollar General,Consumer Defensive
+Arrow Electronics,Technology
+Occidental Petroleum,Energy
+Northwestern Mutual,Financial Services
+Travelers,Financial Services
+Northrop Grumman,Industrials
+United Services Automobile Assn.,Financial Services
+Honeywell International,Industrials
+3M,Industrials
+US Foods Holding,Consumer Defensive
+Warner Bros. Discovery,Communication Services
+Lennar,Consumer Cyclical
+D.R. Horton,Consumer Cyclical
+Jabil,Technology
+Cheniere Energy,Energy
+Broadcom,Technology
+CarMax,Consumer Cyclical
+Starbucks,Consumer Cyclical
+Molina Healthcare,Healthcare
+Uber Technologies,Technology
+Philip Morris International,Consumer Defensive
+Netflix,Communication Services
+NRG Energy,Utilities
+Mondelez International,Consumer Defensive
+Danaher,Healthcare
+Salesforce,Technology
+Paramount Global,Communication Services
+CBRE Group,Real Estate
+Micron Technology,Technology
+Visa,Financial Services
+Southern,Utilities
+United Natural Foods,Consumer Defensive
+Paccar,Industrials
+Duke Energy,Utilities
+Eli Lilly,Healthcare
+Hewlett Packard Enterprise,Technology
+Dollar Tree,Consumer Defensive
+Lithia Motors,Consumer Cyclical
+Cummins,Industrials
+Penske Automotive Group,Consumer Cyclical
+PayPal Holdings,Financial Services
+U.S. Bancorp,Financial Services
+Gilead Sciences,Healthcare
+AutoNation,Consumer Cyclical
+Nvidia,Technology
+Kraft Heinz,Consumer Defensive
+Amgen,Healthcare
+Applied Materials,Technology
+EOG Resources,Energy
+Truist Financial,Financial Services
+Macy's,Consumer Cyclical
+Union Pacific,Industrials
+C.H. Robinson Worldwide,Industrials
+Rite Aid,Healthcare
+Constellation Energy,Utilities
+Avnet,Technology
+Pioneer Natural Resources,Energy
+Southwest Airlines,Industrials
+CDW,Technology
+Advanced Micro Devices,Technology
+PNC Financial Services Group,Financial Services
+McDonald's,Consumer Cyclical
+Cleveland-Cliffs,Basic Materials
+Freeport-McMoRan,Basic Materials
+Builders FirstSource,Industrials
+Oneok,Energy
+Hartford Financial Services Group,Financial Services
+Charles Schwab,Financial Services
+Steel Dynamics,Basic Materials
+Mastercard,Financial Services
+Sherwin-Williams,Basic Materials
+Genuine Parts,Consumer Cyclical
+PG&E,Utilities
+WESCO International,Industrials
+Murphy USA,Consumer Cyclical
+WestRock,Consumer Cyclical
+International Paper,Consumer Cyclical
+Baker Hughes,Energy
+United States Steel,Basic Materials
+NextEra Energy,Utilities
+Targa Resources,Energy
+Lear,Consumer Cyclical
+Jones Lang LaSalle,Real Estate
+Goodyear Tire & Rubber,Consumer Cyclical
+Marriott International,Consumer Cyclical
+Marsh & McLennan,Financial Services
+Altria Group,Consumer Defensive
+Coupang,Consumer Cyclical
+Carrier Global,Industrials
+Halliburton,Energy
+Delek US Holdings,Energy
+Kimberly-Clark,Consumer Defensive
+Texas Instruments,Technology
+Bank of New York Mellon,Financial Services
+ManpowerGroup,Industrials
+Whirlpool,Consumer Cyclical
+Waste Management,Industrials
+American Electric Power,Utilities
+Emerson Electric,Industrials
+Aflac,Financial Services
+Cognizant Technology Solutions,Technology
+Becton Dickinson,Healthcare
+BJ's Wholesale Club,Consumer Defensive
+Moderna,Healthcare
+DTE Energy,Utilities
+Land O'Lakes,Consumer Defensive
+Kinder Morgan,Energy
+Tenet Healthcare,Healthcare
+Devon Energy,Energy
+Mosaic,Basic Materials
+Exelon,Utilities
+General Mills,Consumer Defensive
+Global Partners,Energy
+Western Digital,Technology
+Lincoln National,Financial Services
+Ross Stores,Consumer Cyclical
+Stryker,Healthcare
+Kyndryl Holdings,Technology
+Kohl's,Consumer Cyclical
+Stanley Black & Decker,Industrials
+Colgate-Palmolive,Consumer Defensive
+BlackRock,Financial Services
+Fiserv,Technology
+Estée Lauder,Consumer Defensive
+PPG Industries,Basic Materials
+Adobe,Technology
+Block,Technology
+Synchrony Financial,Financial Services
+Principal Financial,Financial Services
+Lumen Technologies,Communication Services
+Corteva,Basic Materials
+Andersons,Consumer Defensive
+Lam Research,Technology
+Edison International,Utilities
+Dominion Energy,Utilities
+Booking Holdings,Consumer Cyclical
+Quanta Services,Industrials
+Expeditors International of Washington,Industrials
+L3Harris Technologies,Industrials
+Reliance Steel & Aluminum,Basic Materials
+Live Nation Entertainment,Communication Services
+DISH Network,Communication Services
+DuPont,Basic Materials
+Automatic Data Processing,Industrials
+Group 1 Automotive,Consumer Cyclical
+Aramark,Industrials
+Thor Industries,Consumer Cyclical
+DXC Technology,Technology
+Viatris,Healthcare
+Reinsurance Group of America,Financial Services
+AutoZone,Consumer Cyclical
+PulteGroup,Consumer Cyclical
+Illinois Tool Works,Industrials
+Parker-Hannifin,Industrials
+BorgWarner,Consumer Cyclical
+Westlake,Basic Materials
+Consolidated Edison,Utilities
+Gap,Consumer Cyclical
+Opendoor Technologies,Real Estate
+Nordstrom,Consumer Cyclical
+Asbury Automotive Group,Consumer Cyclical
+Ball,Basic Materials
+Kellogg,Consumer Defensive
+Xcel Energy,Utilities
+W.W. Grainger,Industrials
+Discover Financial Services,Financial Services
+Baxter International,Healthcare
+Southwestern Energy,Energy
+DCP Midstream,Energy
+Jacobs Solutions,Industrials
+Laboratory Corp. of America,Healthcare
+CSX,Industrials
+J.B. Hunt Transport Services,Industrials
+Guardian Life Ins. Co. of America,Financial Services
+Jackson Financial,Financial Services
+Fidelity National Information Services,Technology
+Berry Global Group,Consumer Cyclical
+Sempra,Utilities
+IQVIA Holdings,Healthcare
+O'Reilly Automotive,Consumer Cyclical
+Leidos Holdings,Technology
+Ameriprise Financial,Financial Services
+Omnicom Group,Communication Services
+Tractor Supply,Consumer Cyclical
+Corning,Technology
+Ecolab,Basic Materials
+Icahn Enterprises,Energy
+Farmers Insurance Exchange,Financial Services
+Keurig Dr Pepper,Consumer Defensive
+Loews,Financial Services
+Equitable Holdings,Financial Services
+Sonic Automotive,Consumer Cyclical
+Fox,Communication Services
+American Family Insurance Group,Financial Services
+Entergy,Utilities
+Fluor,Industrials
+Vistra,Utilities
+State Street,Financial Services
+Otis Worldwide,Industrials
+Peter Kiewit Sons',Industrials
+Carvana,Consumer Cyclical
+Republic Services,Industrials
+AECOM,Industrials
+Universal Health Services,Healthcare
+Pacific Life,Financial Services
+VMware,Technology
+Western & Southern Financial Group,Financial Services
+MGM Resorts International,Consumer Cyclical
+Casey's General Stores,Consumer Cyclical
+Crown Holdings,Consumer Cyclical
+Textron,Industrials
+LKQ,Consumer Cyclical
+Norfolk Southern,Industrials
+Intuit,Technology
+Air Products & Chemicals,Basic Materials
+Boston Scientific,Healthcare
+AGCO,Industrials
+Henry Schein,Healthcare
+Amphenol,Technology
+AES,Utilities
+Mutual of Omaha Insurance,Financial Services
+Ovintiv,Energy
+Hormel Foods,Consumer Defensive
+Alcoa,Basic Materials
+International Flavors & Fragrances,Basic Materials
+Jones Financial (Edward Jones),Financial Services
+Dick's Sporting Goods,Consumer Cyclical
+Eversource Energy,Utilities
+Wayfair,Consumer Cyclical
+Community Health Systems,Healthcare
+Ally Financial,Financial Services
+Regeneron Pharmaceuticals,Healthcare
+Liberty Media,Communication Services
+APA,Energy
+Qurate Retail,Consumer Cyclical
+FirstEnergy,Utilities
+Analog Devices,Technology
+Ryder System,Industrials
+Avis Budget Group,Industrials
+Unum Group,Financial Services
+Newmont,Basic Materials
+VF,Consumer Cyclical
+Chesapeake Energy,Energy
+Mohawk Industries,Consumer Cyclical
+Markel,Financial Services
+Expedia Group,Consumer Cyclical
+Caesars Entertainment,Consumer Cyclical
+United Rentals,Industrials
+Apollo Global Management,Financial Services
+DaVita,Healthcare
+Hess,Energy
+Fidelity National Financial,Financial Services
+Conagra Brands,Consumer Defensive
+Univar Solutions,Basic Materials
+Auto-Owners Insurance,Financial Services
+Raymond James Financial,Financial Services
+Seaboard,Industrials
+CF Industries Holdings,Basic Materials
+S&P Global,Financial Services
+W.R. Berkley,Financial Services
+Advance Auto Parts,Consumer Cyclical
+EMCOR Group,Industrials
+Williams,Energy
+Interpublic Group,Communication Services
+TravelCenters of America,Consumer Cyclical
+American Tower,Real Estate
+Molson Coors Beverage,Consumer Defensive
+Huntington Ingalls Industries,Industrials
+NVR,Consumer Cyclical
+Eastman Chemical,Basic Materials
+Graybar Electric,Basic Materials
+Insight Enterprises,Technology
+Hershey,Consumer Defensive
+News Corp.,Communication Services
+Toll Brothers,Consumer Cyclical
+Ulta Beauty,Consumer Cyclical
+Assurant,Financial Services
+Weyerhaeuser,Real Estate
+Biogen,Healthcare
+Dana,Consumer Cyclical
+UGI,Utilities
+Chewy,Consumer Cyclical
+Owens & Minor,Healthcare
+Quest Diagnostics,Healthcare
+Public Service Enterprise Group,Utilities
+Ebay,Consumer Cyclical
+MasTec,Industrials
+Owens Corning,Industrials
+Celanese,Basic Materials
+Altice USA,Communication Services
+Alaska Air Group,Industrials
+SpartanNash,Consumer Defensive
+Diamondback Energy,Energy
+Intercontinental Exchange,Financial Services
+Darden Restaurants,Consumer Cyclical
+UFP Industries,Basic Materials
+WEC Energy Group,Utilities
+Yum China Holdings,Consumer Cyclical
+EnLink Midstream,Energy
+Continental Resources,Energy
+Newell Brands,Consumer Defensive
+Graphic Packaging Holding,Consumer Cyclical
+Olin,Basic Materials
+Fifth Third Bancorp,Financial Services
+Thrivent Financial for Lutherans,Financial Services
+CenterPoint Energy,Utilities
+Erie Insurance Group,Financial Services
+CommScope Holding,Technology
+KLA,Technology
+JetBlue Airways,Industrials
+Motorola Solutions,Technology
+Citizens Financial Group,Financial Services
+Coterra Energy,Energy
+Avery Dennison,Consumer Cyclical
+PVH,Consumer Cyclical
+GXO Logistics,Industrials
+Polaris,Consumer Cyclical
+Global Payments,Industrials
+Arconic,Industrials
+Vertex Pharmaceuticals,Healthcare
+Commercial Metals,Basic Materials
+Autoliv,Consumer Cyclical
+Constellation Brands,Consumer Defensive
+Hilton Worldwide Holdings,Consumer Cyclical
+Foot Locker,Consumer Cyclical
+Huntsman,Basic Materials
+Burlington Stores,Consumer Cyclical
+Hertz Global Holdings,Industrials
+Masco,Industrials
+Williams-Sonoma,Consumer Cyclical
+Chipotle Mexican Grill,Consumer Cyclical
+M&T Bank,Financial Services
+LPL Financial Holdings,Financial Services
+CMS Energy,Utilities
+Campbell Soup,Consumer Defensive
+Arthur J. Gallagher,Financial Services
+Blackstone,Financial Services
+Dover,Industrials
+ODP,Consumer Cyclical
+Packaging Corp. of America,Consumer Cyclical
+Brighthouse Financial,Financial Services
+Beacon Roofing Supply,Industrials
+Airbnb,Consumer Cyclical
+Boise Cascade,Basic Materials
+Booz Allen Hamilton Holding,Industrials
+Westinghouse Air Brake Technologies,Industrials
+ON Semiconductor,Technology
+Oshkosh,Industrials
+Franklin Resources,Financial Services
+Taylor Morrison Home,Consumer Cyclical
+A-Mark Precious Metals,Financial Services
+KeyCorp,Financial Services
+ARKO,Consumer Cyclical
+Lululemon athletica,Consumer Cyclical
+Old Republic International,Financial Services
+Zoetis,Healthcare
+Marathon Oil,Energy
+J.M. Smucker,Consumer Defensive
+Huntington Bancshares,Financial Services
+NGL Energy Partners,Energy
+Ingredion,Consumer Defensive
+Fortune Brands Innovations,Industrials
+PPL,Utilities
+Sanmina,Technology
+Bed Bath & Beyond,Consumer Cyclical
+Cintas,Industrials
+NCR,Technology
+ABM Industries,Industrials
+Rockwell Automation,Industrials
+Northern Trust,Financial Services
+XPO,Industrials
+Science Applications International,Technology
+Ameren,Utilities
+First American Financial,Financial Services
+Bath & Body Works,Consumer Cyclical
+Regions Financial,Financial Services
+Activision Blizzard,Communication Services
+Avantor,Basic Materials
+Genworth Financial,Financial Services
+EQT,Energy
+Skechers U.S.A.,Consumer Cyclical
+Landstar System,Industrials
+Knight-Swift Transportation Holdings,Industrials
+SVB Financial Group,Financial Services
+Par Pacific Holdings,Energy
+Albemarle,Basic Materials
+Vulcan Materials,Basic Materials
+Watsco,Industrials
+KKR,Financial Services
+Equinix,Real Estate
+Sonoco Products,Consumer Cyclical
+ServiceNow,Technology
+Robert Half International,Industrials
+Intl. Business Machines,Technology
+Texaco,Energy
+ChevronTexaco,Energy
+Amoco,Energy
+Atlantic Richfield,Energy
+Chrysler,Consumer Cyclical
+Shell Oil,Energy
+United Technologies,Industrials
+Tenneco Automotive,Consumer Cyclical
+Sunoco,Energy
+Nabisco Group Holdings,Consumer Defensive
+BP America,Energy
+ITT Industries,Industrials
+Beatrice,Consumer Defensive
+Dow Chemical,Basic Materials
+McDonnell Douglas,Industrials
+Unocal,Energy
+CBS,Communication Services
+Eastman Kodak,Industrials
+Kraft,Consumer Defensive
+Honeywell Intl.,Industrials
+General Foods,Consumer Defensive
+Union Carbide,Basic Materials
+Xerox,Technology
+LTV,Technology
+Sara Lee,Consumer Defensive
+Ashland,Basic Materials
+Amerada Hess,Energy
+Sealed Air,Consumer Cyclical
+Coastal,Financial Services
+Anheuser-Busch,Consumer Defensive
+Monsanto,Basic Materials
+Georgia-Pacific,Basic Materials
+Digital Equipment,Technology
+Honeywell,Industrials
+TRW,Industrials
+Hewlett-Packard,Technology
+Raytheon,Industrials
+Ralston Purina,Consumer Defensive
+Champion International,Basic Materials
+Costco,Consumer Defensive
+Verizon,Communication Services
+Fortive,Technology
+Ralph Lauren,Consumer Cyclical
+Spectrum Brands Holdings,Consumer Defensive
+Ascena Retail Group,Consumer Cyclical
+Casey’s General Stores,Consumer Cyclical
+HD Supply Holdings,Industrials
+Hanesbrands,Consumer Cyclical
+Alleghany,Financial Services
+Apache,Energy
+Dillard’s,Consumer Cyclical
+TreeHouse Foods,Consumer Cyclical
+Wynn Resorts,Consumer Cyclical
+American Axle & Manufacturing,Consumer Cyclical
+Chemours,Basic Materials
+iHeartMedia,Communication Services
+Sealed Air,Consumer Cyclical
+Realogy Holdings,Real Estate
+AK Steel Holding,Basic Materials
+Securian Financial Group,Financial Services
+Conduent,Technology
+M&T Bank Corp.,Financial Services
+Clorox,Consumer Defensive
+AmTrust Financial Services,Financial Services
+Yum Brands,Consumer Cyclical
+Windstream Holdings,Communication Services
+Magellan Health,Healthcare
+Western & Southern Financial,Financial Services
+Wyndham Destinations,Consumer Cyclical
+Booz Allen Hamilton,Industrials
+Cincinnati Financial,Financial Services
+Avon Products,Consumer Defensive
+Harley-Davidson,Consumer Cyclical
+Patterson,Healthcare
+Peabody Energy,Energy
+Simon Property Group,Real Estate
+Western Union,Financial Services
+NetApp,Technology
+Polaris Industries,Consumer Cyclical
+Vistra Energy,Utilities
+Anadarko Petroleum,Energy
+Estee Lauder,Consumer Defensive
+State Street Corp.,Financial Services
+Praxair,Basic Materials
+Sempra Energy,Utilities
+Toys “R” Us,Consumer Cyclical
+L3 Technologies,Industrials
+Office Depot,Consumer Cyclical
+salesforce.com,Technology
+Jacobs Engineering Group,Industrials
+SunTrust Banks,Financial Services
+Voya Financial,Financial Services
+eBay,Consumer Cyclical
+Tenneco,Consumer Cyclical
+GameStop,Consumer Cyclical
+Frontier Communications,Communication Services
+O’Reilly Automotive,Consumer Cyclical
+Calpine,Utilities
+Peter Kiewit Sons’,Industrials
+Dick’s Sporting Goods,Consumer Cyclical
+Veritiv,Industrials
+Univar,Basic Materials
+Westlake Chemical,Basic Materials
+Anixter International,Industrials
+Zimmer Biomet Holdings,Healthcare
+Alliance Data Systems,Financial Services
+Coty,Consumer Defensive
+National Oilwell Varco,Energy
+Adobe Systems,Technology
+LifePoint Health,Healthcare
+Blackstone Group,Financial Services
+Spirit AeroSystems Holdings,Industrials
+Expeditors Intl. of Washington,Industrials
+Discovery,Financial Services
+American Financial Group,Financial Services
+Rockwell Collins,Industrials
+Kindred Healthcare,Healthcare
+Dr Pepper Snapple Group,Consumer Defensive
+Anthem,Healthcare
+DuPont de Nemours,Basic Materials
+IBM,Technology
+Facebook,Communication Services
+Cigna,Healthcare
+AIG,Financial Services
+United Continental Holdings,Industrials
+Tech Data,Technology
+USAA,Financial Services
+Twenty-First Century Fox,Communication Services
+INTL FCStone,Financial Services
+CenturyLink,Communication Services
+WellCare Health Plans,Healthcare
+Synnex,Technology
+PNC Financial Services,Financial Services
+Hartford Financial Services,Financial Services
+HollyFrontier,Energy
+XPO Logistics,Industrials
+Supervalu,Consumer Defensive
+Celgene,Healthcare
+Las Vegas Sands,Consumer Cyclical
+ADP,Industrials
+L Brands,Consumer Cyclical
+BB&T Corp.,Financial Services
+Viacom,Communication Services
+Core-Mark Holding,Consumer Defensive
+J.C. Penney,Consumer Cyclical
+First Data,Financial Services
+Jefferies Financial Group,Financial services
+Newmont Goldcorp,Basic Materials
+Dillard's,Consumer Cyclical
+Post Holdings,Consumer Defensive
+Tapestry,Consumer Cyclical
+Navient,Financial Services
+Bank of America Corp.,Financial Services
+Express Scripts Holding,Healthcare
+State Farm Insurance Cos.,Financial Services
+Lowe’s,Consumer Cyclical
+UPS,Industrials
+DowDuPont,Basic Materials
+Aetna,Healthcare
+Albertsons Cos.,Consumer Defensive
+Disney,Communication Services
+Energy Transfer Equity,Energy
+Andeavor,Energy
+Travelers Cos.,Financial Services
+Macy’s,Consumer Cyclical
+McDonald’s,Consumer Cyclical
+Kohl’s,Consumer Cyclical
+PG&E Corp.,Utilities
+Sears Holdings,Consumer Cyclical
+Envision Healthcare,Healthcare
+Land O’Lakes,Consumer Defensive
+J.P. Morgan Chase,Financial Services
+HCA Holdings,Healthcare
+Staples,Consumer Defensive
+Whole Foods Market,Consumer Defensive
+Reynolds American,Consumer Cyclical
+Leucadia National,Financial Services
+Priceline Group,Consumer Cyclical
+Liberty Interactive,Communication Services
+CST Brands,Energy
+Expedia,Consumer Cyclical
+Level 3 Communications,Communication Services
+Western Refining,Energy
+Computer Sciences,Technology
+Harman International Industries,Consumer Cyclical
+Quintiles IMS Holdings,Healthcare
+Discovery Communications,Communication Services
+CalAtlantic Group,Real Estate
+HRG Group,Financial Services
+St. Jude Medical,Healthcare
+Terex,Industrials
+Genesis Healthcare,Healthcare
+Wyndham Worldwide,Consumer Cyclical
+Symantec,Technology
+Host Hotels & Resorts,Real Estate
+Essendant,Industrials
+Airgas,Basic Materials
+Kelly Services,Industrials
+CH2M Hill,Industrials
+Big Lots,Consumer Defensive
+Michaels Cos.,Consumer Cyclical
+Yahoo,Communication Services
+Ingram Micro,Technology
+Tesoro,Basic Materials
+EMC,Industrials
+Time Warner Cable,Communication Services
+Jabil Circuit,Technology
+Health Net,Healthcare
+Bank of New York Mellon Corp.,Financial Services
+Principal Financial Group,Financial Services
+Dominion Resources,Utilities
+L-3 Communications,Industrials
+Precision Castparts,Industrials
+MasterCard,Financial Services
+Cameron International,Energy
+Jarden,Consumer Cyclical
+Jones Financial,Financial Services
+Coca-Cola European Partners,Consumer Defensive
+Cablevision Systems,Communication Services
+FMC Technologies,Energy
+Baxalta,Healthcare
+Barnes & Noble,Consumer Cyclical
+Dana Holding,Consumer Cyclical
+Starwood Hotels & Resorts,Real Estate
+Lansing Trade Group,Basic Materials
+SanDisk,Technology
+Envision Healthcare Holdings,Healthcare
+Visteon,Consumer Cyclical
+Energy Future Holdings,Energy
+NiSource,Utilities
+Domtar,Basic Materials
+Spectra Energy,Energy
+Telephone & Data Systems,Communication Services
+JP Morgan Chase,Financial Services
+Walgreens,Healthcare
+Safeway,Consumer Defensive
+TIAA-CREF,Financial Services
+DirecTV,Communication Services
+US Foods,Consumer Defensive
+Kraft Foods Group,Consumer Defensive
+TRW Automotive Holdings,Consumer Cyclical
+Chubb,Financial Services
+DaVita HealthCare Partners,Healthcare
+Family Dollar Stores,Consumer Defensive
+Coca-Cola Enterprises,Consumer Defensive
+Allergan,Healthcare
+PetSmart,Consumer Cyclical
+Agilent Technologies,Healthcare
+Pantry,Consumer Defensive
+Integrys Energy Group,Energy
+Buckeye Partners,Energy
+Omnicare,Healthcare
+KBR,Industrials
+TEGNA,Communication Services
+General Cable,Industrials
+MRC Global,Energy
+Con-way,Industrials
+Calumet Specialty Products Partners,Energy
+MeadWestvaco,Basic Materials
+AGL Resources,Energy
+Quintiles Transnational Holdings,Healthcare
+ARRIS Group,Communication Services
+McGraw Hill Financial,Financial Services
+Sperry,Technology
+ConAgra Foods,Consumer Defensive
+Motorola,Technology
+Whitman,Consumer Defensive
+Bethlehem Steel,Basic Materials
+Unisys,Technology
+Borden Chemical,Basic Materials
+Fortune Brands,Industrials
+Wyeth,Healthcare
+Pillsbury,Consumer Defensive
+Litton Industries,Industrials
+Martin Marietta,Basic Materials
+North American Philips,Industrials
+Farmland Industries,Real Estate
+Bestfoods,Consumer Defensive
+Dresser Industries,Industrials
+ARMCO,Basic Materials
+Maxus Energy,Energy
+Agway,Consumer Cyclical
+H.J. Heinz,Consumer Defensive
+American Motors,Consumer Cyclical
+Firestone Tire & Rubber,Consumer Cyclical
+Navistar International,Industrials
+OfficeMax,Consumer Cyclical
+Control Data,Technology
+Eaton,Industrials
+Owens-Illinois,Consumer Cyclical
+American Cyanamid,Basic Materials
+Quaker Oats,Consumer Defensive
+Reynolds Metals,Consumer Cyclical
+Time Warner,Communication Services
+American Standard,Industrials
+Kerr-McGee,Energy
+FMC,Basic Materials
+US Pharmaceuticals,Healthcare
+Teledyne,Technology
+Goodrich,Industrials
+Chiquita Brands Intl.,Consumer Defensive
+Warner-Lambert,Healthcare
+Ryerson Tull,Basic Materials
+Combustion Engineering,Industrials
+Crown Zellerbach,Basic Materials
+Cooper Industries,Healthcare
+Scott Paper,Consumer Defensive
+Grumman,Industrials
+Avon Products,Consumer Defensive
+GenCorp,Industrials
+Times Mirror,Communication Services
+Chesebrough-Pond's,Consumer Defensive
+Staley Continental,Consumer Defensive
+Sipco,Industrials
+American Can,Consumer Cyclical
+Burlington Industries Equity,Consumer Cyclical
+Mead,Consumer Defensive
+Kaisertech,Industrials
+Ingersoll-Rand,Industrials
+Furniture Brands Intl.,Consumer Cyclical
+Hercules,Financial Services
+Levi Strauss,Consumer Cyclical
+BASF,Basic Materials
+Fruehauf,Industrials
+Penn Central,Industrials
+USG,Basic Materials
+Fort James,Consumer Defensive
+Revlon,Consumer Defensive
+Kidde,Industrials
+Singer,Consumer Cyclical
+FINA,Energy
+Gillette,Consumer Defensive
+Lear Siegler,Industrials
+Wang Laboratories,Technology
+Hanson Industries NA,Industrials
+Harris,Energy
+Engelhard,Basic Materials
+Walter Industries,Basic Materials
+Pennzoil,Consumer Defensive
+Cabot,Basic Materials
+Murphy Oil,Energy
+Sunbeam/Oster,Consumer Cyclical
+Safety-Kleen,Industrials
+Gannett,Communication Services
+Uniroyal,Technology
+Pharmacia,Healthcare
+Lever Brothers,Consumer Defensive
+Mack Trucks,Industrials
+Rohm & Haas,Basic Materials
+Squibb,Healthcare
+R.R. Donnelley & Sons,Industrials
+Hershey Foods,Consumer Defensive
+AMAX,Basic Materials
+Quantum Chemical,Basic Materials
+Thiokol,Industrials
+White Consolidated Industries,Industrials
+Tribune,Communication Services
+Great Northern Nekoosa,Basic Materials
+Schering-Plough,Healthcare
+Aeroquip-Vickers,Industrials
+Apple Computer,Technology
+Mapco,Energy
+Alumax,Basic Materials
+Ogden,Industrials
+Manville,Basic Materials
+Hammermill Paper,Basic Materials
+Union Camp,Basic Materials
+J.P. Stevens,Consumer Cyclical
+Sterling Drug,Healthcare
+Coltec Industries,Industrials
+Pitney Bowes,Industrials
+Air Products & Chem.,Basic Materials
+Anderson Clayton,Consumer Defensive
+Koppers,Basic Materials
+General Signal,Industrials
+National Semiconductor,Technology
+Johnson Controls,Industrials
+Emhart,Industrials
+Black & Decker,Industrials
+Knight-Ridder,Communication Services
+National Gypsum,Basic Materials
+Westvaco,Basic Materials
+Triangle Industries,Industrials
+J.E. Seagram,Consumer Defensive
+Armstrong Holdings,Industrials
+Texas Oil & Gas,Energy
+Hoechst Celanese,Basic Materials
+Central Soya,Consumer Defensive
+AMP,Financial Services
+Imcera Group,Healthcare
+Zenith Electronics,Technology
+Marmon Group,Industrials
+Mobay,Healthcare
+CBI Industries,Industrials
+Ethyl,Basic Materials
+Fruit of the Loom,Consumer Cyclical
+Brunswick,Consumer Cyclical
+Wilson Foods,Consumer Defensive
+Gould,Real Estate
+Tosco,Energy
+Gold Kist Holdings,Energy
+McGraw-Hill,Communication Services
+Crown Central,Energy
+Monfort of Colorado,Consumer Defensive
+Parker Hannifin,Industrials
+Witco,Basic Materials
+Tektronix,Technology
+NL Industries,Industrials
+Square D,Industrials
+New York Times,Communication Services
+Cyclops Industries,Healthcare
+Farmers Union Central Exch.,Consumer Defensive
+Pacific Resources,Energy
+Fort Howard,Basic Materials
+MID-AMERICA DAIRYMEN,Consumer Defensive
+Amstar,Consumer Defensive
+Applera,Healthcare
+Polaroid,Consumer Cyclical
+Sundstrand,Industrials
+Molson Coors Brewing,Consumer Defensive
+Fleetwood Enterprises,Consumer Cyclical
+NVF,Industrials
+Thomas J. Lipton,Consumer Defensive
+Tyco Laboratories,Healthcare
+Harsco,Industrials
+Hughes Tool,Energy
+Louisiana-Pacific,Industrials
+Minstar,Industrials
+Temple-Inland,Basic Materials
+Data General,Technology
+Stone Container,Basic Materials
+Richardson-Vicks,Healthcare
+Hasbro,Consumer Cyclical
+Louisiana Land & Exploration,Financial Services
+Intl. Multifoods,Consumer Defensive
+Stanley Works,Industrials
+WestPoint Stevens,Consumer Cyclical
+Norton,Basic Materials
+National Service Industries,Industrials
+Miles Laboratories,Healthcare
+G. Heileman Brewing,Consumer Defensive
+Asarco,Consumer Cyclical
+Weirton Steel,Basic Materials
+PerkinElmer,Healthcare
+Willamette Industries,Basic Materials
+Ex-Cell-O,Industrials
+Inspiration Resources,Energy
+Certainteed,Basic Materials
+Hartmarx,Consumer Cyclical
+Rexnord,Industrials
+Crane,Industrials
+Timken,Industrials
+Washington Post,Communication Services
+Magic Chef,Consumer Cyclical
+Clorox,Consumer Defensive
+Pennwalt Corp,Basic Materials
+Mattel,Consumer Cyclical
+Triarc,Consumer Cyclical
+Collins & Aikman,Consumer Cyclical
+Dow Jones,Communication Services
+Dean Foods,Consumer Defensive
+Brockway,Basic Materials
+Capital Cities/ABC,Communication Services
+Springs Industries,Consumer Cyclical
+General Instrument,Technology
+Quaker State,Consumer Defensive
+Varian Associates,Healthcare
+General Cinema,Consumer Cyclical
+Clark Equipment,Industrials
+Cluett Peabody,Consumer Cyclical
+Allis-Chalmers,Industrials
+Potlatch,Real Estate
+E-SYSTEMS,Industrials
+Lafarge,Basic Materials
+A.O. Smith,Industrials
+Gerber Products,Consumer Defensive
+Brown-Forman,Consumer Defensive
+Metromedia International,Communication Services
+Idle Wild Foods,NaN
+CF Industries,Basic Materials
+American Greetings,Consumer Cyclical
+Sheller-Globe,Consumer Cyclical
+Fairchild Industries,Basic Materials
+Chromalloy American,Industrials
+Mitchell Energy & Devel.,Energy
+Tyler,Technology
+Dayco,Consumer Cyclical
+Bowater,Basic Materials
+Lubrizol,Basic Materials
+Dow Corning,Basic Materials
+Household Manufacturing,Consumer Cyclical
+Federal-Mogul,Consumer Cyclical
+Natl. Coop. Refinery Assn.,Energy
+Phelps Dodge,Basic Materials
+Sanders Associates,Industrials
+Sequa,Industrials
+National Starch & Chemical,Basic Materials
+Outboard Marine,Industrials
+McCormick,Consumer Defensive
+Lone Star Industries,Basic Materials
+Sonoco Products,Consumer Cyclical
+AMDAHL,Technology
+Interlake,Industrials
+M/A-Com,Technology
+Big Three Industries,NaN
+Champion Spark Plug,Consumer Cyclical
+Tecumseh Products,Industrials
+Reichhold Chemicals,Basic Materials
+Arvin Industries,Consumer Cyclical
+Harcourt Brace Jovanovich,Communication Services
+Insilco,Industrials
+MEI,Technology
+Figgie International,Industrials
+Joy Technologies,Technology
+United Merchants & Mfrs.,Consumer Cyclical
+Bemis,Basic Materials
+Federal Paper Board,Basic Materials
+Coleco Industries,Consumer Cyclical
+Echlin,Consumer Cyclical
+DR Holdings Inc. of Delaware,NaN
+Armtek,Industrials
+Deluxe,Communication Services
+Midland-Ross,Industrials
+Mohasco,Consumer Cyclical
+Bell & Howell,Technology
+Cincinnati Milacron,Industrials
+GAF,Basic Materials
+Newmont Mining,Basic Materials
+Freeport-McMoran,Basic Materials
+Anchor Hocking,Consumer Cyclical
+Briggs & Stratton,Industrials
+Consolidated Papers,Basic Materials
+Scott & Fetzer,Industrials
+A.H. Robins,Healthcare
+Interstate Bakeries,Consumer Defensive
+Amsted Industries,Industrials
+Worthington Industries,Industrials
+Southwest Forest Industries,Basic Materials
+Smith International,Industrials
+Esselte Business Systems,Industrials
+First City Industries,NaN
+Maytag,Consumer Cyclical
+Nalco Chemical,Basic Materials
+Wheeling Pittsburgh,Basic Materials
+MacMillan,Communication Services
+Raychem,Technology
+Tyco International,Industrials
+Storage Technology,Technology
+Rubbermaid,Consumer Cyclical
+Smithfield Foods,Consumer Defensive
+Dennison Manufacturing,Industrials
+Thorn Apple Valley,Consumer Defensive
+Ferro,Industrials
+AG Processing,Consumer Defensive
+Eagle-Picher Industries,Industrials
+Dexter,Industrials
+Smurfit-Stone Container,Basic Materials
+Savannah Foods & Industries,Consumer Defensive
+Flowers Industries,Consumer Defensive
+SPX,Industrials
+Tandem Computers,Consumer Cyclical
+Nashua,Basic Materials
+Wm. Wrigley Jr.,Consumer Defensive
+Robertson-Ceco,Industrials
+Ceco Industries,Industrials
+AM International,Technology
+Rohr,Industrials
+Nortek,Industrials
+Metaldyne,Industrials
+Bausch & Lomb,Healthcare
+Warnaco Group,Consumer Cyclical
+Snap-On,Industrials
+Memorex Telex,Technology
+Phillips-Van Heusen,Consumer Cyclical
+Kellwood,Consumer Cyclical
+Fieldcrest Cannon,Consumer Cyclical
+Moore McCormack Resources,Industrials
+Westmoreland Coal,Energy
+Media General,Communication Services
+Foxboro,Industrials
+Roper,Technology 
+Tracor,Consumer Cyclical
+Rhone-Poulenc Rorer,Healthcare
+Oxford Industries,Consumer Cyclical
+Georgia Kraft,Basic Materials
+Carpenter Technology,Industrials
+Handy & Harman,Industrials
+Liz Claiborne,Consumer Cyclical
+Guardian Industries,Industrials
+Cameron Iron Works,Energy
+Winn Enterprises,NaN
+Liquid Air,Basic Materials
+Riceland Foods,Consumer Defensive
+Nacco Industries,Energy
+Pittway,Industrials
+Easco,Technology 
+SCI Systems,Consumer Cyclical
+Bairnco,Industrials
+California & Hawaiian Sugar,Consumer Defensive
+Pentair,Industrials
+Nerco,Industrials
+Dorsey,Industrials
+Ocean Spray,Consumer Defensive
+Jostens,Consumer Cyclical
+Apogent Technologies,Healthcare
+Cooper Tire & Rubber,Consumer Cyclical
+Hubbell,Industrials
+Matan Industries,NaN
+Datapoint,Technology
+Shaw Industries,Consumer Cyclical
+Michigan Milk Prod. Assoc.,Consumer Defensive
+Hillenbrand Industries,Industrials
+Todd Shipyards,Industrials
+Compaq Computer,Technology
+Ametek,Industrials
+Loral,Consumer Defensive
+Intl. Flavors & Frag.,Basic Materials
+Butler Manufacturing,Industrials
+Harris Graphics,Industrials
+Herman Miller,Consumer Cyclical
+Universal Foods,Consumer Defensive
+Sun-Diamond Growers,Consumer Defensive
+Stanadyne,Industrials
+Joy Global,Industrials
+Carlisle,Industrials
+Leggett & Platt,Consumer Cyclical
+UST,Consumer Defensive
+Meredith,Communication Services
+HNI,Industrials
+Dataproducts,Technology
+Barnes Group,Industrials
+Gifford-Hill,Basic Materials
+C.R. Bard,Healthcare
+Wisconsin Dairies Cooperative,Consumer Defensive
+Philips Industries,Industrials
+American Bakeries,Consumer Defensive
+Ampco-Pittsburgh,Industrials
+Longview Fibre,Basic Materials
+Revere Copper & Brass,Basic Materials
+H.B. Fuller,Basic Materials
+Trinity Industries,Industrials
+Chesapeake,Energy
+Commerce Clearing House,Financial Services
+Coleman,Consumer Cyclical
+Computervision,Technology
+Standard Register,Industrials
+Lancaster Colony,Consumer Defensive
+Scientific-Atlanta,Technology
+S.S. Pierce,Consumer Cyclical
+American Maize-Products,Consumer Defensive
+Winnebago Industries,Consumer Cyclical
+Chicago Pacific,NaN
+United Auto Group,Consumer Cyclical
+American Financial Grp.,Financial Services
+Unilever U.S.,Consumer Defensive
+Reynolds & Reynolds,Consumer Cyclical
+Consol Energy,Energy
+Adams Resources & Engy.,Energy
+LSI Logic,Technology
+Reliance Steel & Alum.,Basic Materials
+Citgo Petroleum,Energy
+Computer Assoc. Intl.,Technology
+New England Electric Sys.,Utilities
+Gateway,Industrials
+Financial Services,Financial Services
+Brink's,Industrials
+Holly,Consumer Cyclical
+Seagate Technology,Technology
+Pall,Industrials
+American Medical Holdings,Healthcare
+Du Pont Merck Pharmaceutical,Healthcare
+Ruddick,Consumer Defensive
+Universal,Consumer Defensive
+Pulte Homes,Consumer Cyclical
+Duracell International,Industrials
+Sonat,Energy
+Foamex International,Basic Materials
+MCI Communications,Financial Services
+Food 4 Less,Consumer Defensive
+Trans World Airlines,Industrials
+Progress Energy,Energy
+Affiliated Computer Services,Technology
+Chiquita Brands International,Consumer Defensive
+Vons,Consumer Defensive
+U.S. Healthcare,Healthcare
+Encompass Services,Healthcare
+Frontier Oil,Energy
+Unifi,Consumer Cyclical
+Est�e Lauder,Consumer Defensive
+MDU Resources Group,Industrials
+PacifiCorp,Utilities
+Barnett Banks,Financial Services
+Eckerd,Consumer Defensive
+Block Drug,Healthcare
+Sprague Technologies,Technology
+Bergen Brunswig,Healthcare
+Energy,Energy
+Energy East,Energy
+ITT Rayonier,Basic Materials
+NTL Europe,Communication Services
+WellPoint,Healthcare
+Goulds Pumps,Industrials
+Aleris International,Basic Materials
+Interface,Industrials
+Ventas,Real Estate
+Chrysler Group,Consumer Cyclical
+Affiliated Computer Svcs.,Technology
+Hechinger,Consumer Cyclical
+Sterling Chemicals,Basic Materials
+Atari,Communication Services
+Delta Woodside Industries,Basic Materials
+USA Education,NaN
+Columbia/HCA Healthcare,Healthcare
+L.B. Foster,Industrials
+Jones Apparel Group,Consumer Cyclical
+Richfood Holdings,Consumer Defensive
+BayNetworks,Technology
+SunGard Data Systems,Technology
+MCI WorldCom,Financial Services
+NorAm Energy,Energy
+Clear Channel Communications,Communication Services
+Long Island Lighting,Utilities
+KB Home,Consumer Cyclical
+Dr Pepper/Seven-Up,Consumer Defensive
+Sanmina-SCI,Technology
+First American Corp.,Financial Services
+Mueller Industries,Industrials
+Tutor Perini,Industrials
+Fisher Scientific Intl.,Healthcare
+CNF,Financial Services
+Wal-Mart Stores,Consumer Defensive
+Marion Laboratories,Healthcare
+Chemed,Healthcare
+Cyprus Amax Minerals,Basic Materials
+CVS Caremark,Healthcare
+Giant Food,Consumer Cyclical
+Millipore,Healthcare
+WLR Foods,Consumer Defensive
+Reebok International,Consumer Cyclical
+Phoenix,Financial Services
+Health Management Associates,Healthcare
+Mutual of Omaha Ins.,Financial Services
+International Controls,Industrials
+J.P. Industries,Industrials
+Nash-Finch,Consumer Defensive
+Robertshaw Controls,Industrials
+Lehman Brothers,Financial Services
+Borders Group,Consumer Cyclical
+Yellow Roadway,industrials
+Detroit Diesel,industrials
+Standard Pacific,Consumer Cyclical
+Fred Meyer,Consumer Defensive
+Maxtor,Technology
+Washington Mutual,Financial Services
+Transamerica,Financial Services
+Amazon.Com,Consumer Cyclical
+Alberto-Culver,Consumer Defensive
+Arcadian,Consumer Defensive
+Lyondell Chemical,Basic Materials
+Calumet Specialty Products,Energy
+ArvinMeritor,Consumer Cyclical
+Guilford Mills,Consumer Defensive
+GPU,Utilities
+Zurn Industries,Industrials
+Lehman Brothers Hldgs.,Financial Services
+Science Applications Intl.,Technology
+Old Republic Intl.,Financial Services
+MGM Mirage,Consumer Cyclical
+USF&G,Consumer Defensive
+Community Health Sys.,Healthcare
+Alliant Techsystems,Industrials
+Fisher Scientific Group,Healthcare
+NaN,Financial Services
+Ryerson,Industrials
+Boatmen's Bancshares,Financial Services
+Freescale Semiconductor,Technology
+Caldor,Consumer Cyclical
+Valassis Communications,Communication Services
+"Toys ""R"" Us",Consumer Cyclical
+Niagara Mohawk Holdings,Utilities
+BankBoston Corp.,Financial Services
+Allen Group,NaN
+Western Publishing Group,Communication Services
+Bear Stearns,Financial Services
+J.M. Huber,Basic Materials
+Liberty Global,Communication Services
+Consumer Cyclical,Consumer Cyclical
+Equity Office Properties,Real Estate
+Financial services,Financial Services
+AECOM Technology,Industrials
+Teleflex,Healthcare
+Bankers Trust Corp.,Financial Services
+Avista,Utilities
+New Century Energies,Utilities
+Toro,Industrials
+Consolidated Natural Gas,Energy
+Qwest Communications,Communication Services
+St. Joe Paper,Real Estate
+American Stores,Consumer Defensive
+Summit Bancorp,Financial Services
+Dresser-Rand,Industrials
+Priceline.com,Consumer Cyclical
+Xidex,Technology
+CVS,Healthcare
+Coventry Health Care,Healthcare
+Bayer Corporation,Healthcare
+Caremark Rx,Healthcare
+Specialty Coatings International,Basic Materials
+Kennametal,Industrials
+Tele-Communications,Communication Services
+Transco Energy,Energy
+Marley,Consumer Cyclical
+Toys `R` Us,Consumer Cyclical
+CoreStates Financial Corp.,Financial Services
+MicroAge,Technology
+WellPoint Health Networks,Healthcare
+Starwood Hotels & Rsrts.,Consumer Cyclical
+Wendy's International,Consumer Cyclical
+Ryland Group,Consumer Cyclical
+Great American Mgmt. & Inv.,Financial Services
+Energy Transfer Partners,Energy
+Ameritech,Communication Services
+Lehman Brothers Holdings,Financial Services
+InaCom,Technology
+Plains All American Pipeline,Energy
+Standard Commercial,NaN
+Rochester & Pittsburgh Coal,Energy
+McDermott,Industrials
+S&C Holdco 3,NaN
+Dole Food,Consumer Defensive
+US Airways Group,Industrials
+AST Research,Technology
+Union Texas,Energy
+Avery,Consumer Cyclical
+Allied Waste Industries,Industrials
+America Online,Communication Services
+R.H. Donnelley,Communication Services
+Republic New York Corp.,Financial Services
+Cray Research,Technology
+DirecTV Group,Communication Services
+Lone Star Technologies,Energy
+Great Lakes Chemical,Basic Materials
+Hexion Specialty Chemicals,Basic Materials
+U.S. Foodservice,Consumer Defensive
+Millennium Chemicals,Basic Materials
+TEPPCO Partners,Energy
+Sprint,Healthcare
+Spectrum Group International,Consumer Cyclical
+Harman Intl. Industries,Consumer Cyclical
+Molex,Technology
+Communication Services,Communication Services
+Travelers Property Casualty,Financial Services
+J.P. Morgan,Financial Services
+Nynex,Communication Services
+United States Shoe,Consumer Cyclical
+Calmat,basic materials
+LandAmerica Financial,Financial Services
+Oryx Energy,Energy
+Kmart Holding,Consumer Cyclical
+Jacobs Engineering Grp.,Industrials
+UIS,Technology
+Unum,Financial Services
+Enterprise Products,Energy
+NuStar Energy,Energy
+Avatex,Consumer Cyclical
+Telephone & Data Sys.,Communication Services
+Allied Products,Healthcare
+Merrill Lynch,Financial Services
+Perini,Industrials
+Liberty Mutual Ins. Group,Financial Services
+Foundation Health,Healthcare
+Sun Healthcare Group,Healthcare
+Kinder Morgan Energy,Energy
+NCH,Healthcare
+Katy Industries,Industrials
+Vishay Intertechnology,Technology
+Noxell,Consumer Defensive
+Adelphia Communications,Communication Services
+JPS Textile Group,Consumer Cyclical
+Motorola Mobility Holdings,Technology
+Carter-Wallace,Consumer Defensive
+Polo Ralph Lauren,Consumer Cyclical
+Integrated Health Services,Healthcare
+CVS/Caremark,Healthcare
+SouthTrust Corp.,Financial Services
+Valmont Industries,Industrials
+Central & South West,Utilities
+H.F. Ahmanson,Financial Services
+Del Monte Foods,Consumer Defensive
+IAC/Interactive,Communication Services
+NorthWestern,Utilities
+CENEX,Energy
+Aon,Financial Services
+OGE Energy,Utilities
+Flowserve,Industrials
+Sears Roebuck,Consumer Cyclical
+Lukens,Basic Materials
+Grow Group,Basic Materials
+Bassett Furniture Industries,Consumer Cyclical
+Roadway,Industrials
+Columbia Energy Group,Energy
+Healthcare,Healthcare
+Industrials,Industrials
+Henley Manufacturing,NaN
+Russell,Consumer Cyclical
+Allmerica Financial,Financial Services
+Foundation Health Systems,Healthcare
+Cooper Cos.,Healthcare
+Sealy,Consumer Cyclical
+BJ Services,Energy
+JDS Uniphase,Technology
+Cox Communications,Consumer Cyclical
+P.H. Glatfelter,Basic Materials
+M.A. Hanna,Basic Materials
+PacifiCare Health Sys.,Healthcare
+Holnam,Basic Materials
+URS,Industrials
+Premcor,Energy
+GEICO,Financial Services
+Interim Services,Industrials
+Faberge,Consumer Cyclical
+Morgan Stanley Group,Financial Services
+United States Surgical,Healthcare
+Stewart & Stevenson Svcs.,Energy
+Pinnacle West Capital,Utilities
+Beazer Homes USA,Consumer Cyclical
+El Paso,Energy
+Revco D.S.,Consumer Defensive
+Kaman,Industrials
+Universal American,Healthcare
+Conectiv,Utilities
+Borden Chemicals & Plastics,Basic Materials
+Pathmark Stores,Consumer Defensive
+Foodbrands America,Consumer Defensive
+Apollo Group,Financial Services
+Affiliated Publications,Communication Services
+York International,Industrials
+Kimball International,Consumer Cyclical
+Denny's,Consumer Cyclical
+MidAmerican Energy Holdings,Utilities
+Kendall International,Healthcare
+Hudson Foods,Consumer Defensive
+Bandag,Industrials
+Mercantile Stores,Consumer Cyclical
+Citicorp,Financial Services
+Constar International,Basic Materials
+Alltel,Communication Services
+Turner Broadcasting,Communication Services
+Oxford Health Plans,Healthcare
+GenAmerica,Financial Services
+Unisource,Industrials
+Guardian Life of America,Financial Services
+WPS Resources,Healthcare
+BankAmerica Corp.,Financial Services
+Quanex,Industrials
+St. Paul Travelers Cos.,Financial Services
+First Interstate Bancorp,Financial Services
+J.P. Morgan Chase & Co.,Financial Services
+Carpenter,Industrials
+First Fidelity Bancorp.,Financial Services
+AmSouth Bancorp.,Financial Services
+AdvancePCS,Healthcare
+Hillshire Brands,Consumer Defensive
+Beneficial,Financial Services
+Standard Motor Products,Consumer Cyclical
+Burlington Resources,Consumer Cyclical
+Supermarkets Genl. Holdings,Consumer Defensive
+TXU,Utilities
+Southern Pacific Rail,Industrials
+Prudential Ins. Co. of America,Financial Services
+Hovnanian Enterprises,Consumer Cyclical
+Freeport-McMoRan Copper & Gold,Basic Materials
+Albany International,Consumer Cyclical
+Lexmark International,Technology
+Unicom,Communication Services
+Universal Forest Prods.,Basic Materials
+Gitano Group,Consumer Cyclical
+Teachers Insurance & Annuity Assn.,Financial Services
+XTO Energy,Energy
+International Assets Holding,Financial Services
+MCI,Financial Services
+Reliant Energy,Utilities
+Saks,Consumer Cyclical
+AirTouch Communications,Technology
+Security Benefit,Financial Services
+Jefferson-Pilot,Financial Services
+Comdisco Holding,Technology
+CVR Energy,Energy
+APL,Industrials
+Tellabs,Technology
+Scana,Utilities
+Automatic Data Proc.,Industrials
+Crestline Capital,Financial Services
+Wachovia Corp.,Financial Services
+Blockbuster,Consumer Cyclical
+ReliaStar Financial,Financial Services
+HealthSouth,Healthcare
+"HomeBase, Inc.",Consumer Cyclical
+Mobil,Energy
+AbitibiBowater,Basic Materials
+H&R Block,Consumer Cyclical
+Great Western Financial Corp.,Financial Services
+Anchor Glass Container,Basic Materials
+Mondelēz International,Consumer Defensive
+Lucent Technologies,Technology
+Bindley Western,Healthcare
+Olsten,Industrials
+Apollo Computer,Technology
+Bell Atlantic,Communication Services
+Abex,Industrials
+Comerica,Financial Services
+Finevest Foods,Consumer Defensive
+IAC/InterActiveCorp,Communication Services
+International Steel Group,Basic Materials
+Manpower,Industrials
+Ultramar Diamond Shamrock,Energy
+Limited Brands,Consumer Cyclical
+Reliance Group Holdings,Financial Services
+Spiegel,Communication Services
+AFLAC,Financial Services
+PanEnergy,Energy
+Albertson's,Consumer Defensive
+Shawmut National Corp.,Financial Services
+Rykoff-Sexton,Consumer Defensive
+Aramark Holdings,Industrials
+Reader's Digest Assn.,Communication Services
+Household International,Financial Services
+OM Group,Basic Materials
+First Chicago NBD Corp.,Financial Services
+Leslie Fay,Consumer Cyclical
+Magma Copper,Basic Materials
+Western Gas Resources,Energy
+Diebold,Technology
+BlueLinx Holdings,Industrials
+Anacomp,Industrials
+New England Mutual Life Ins.,Financial Services
+Silicon Graphics,Technology
+Grand Union Holdings,Consumer Defensive
+Momentive Specialty Chemicals,Basic Materials
+Knight,Industrials
+Merisel,Technology
+SCANA,Industrials
+Mellon Financial Corp.,Financial Services
+Genesco,Consumer Cyclical
+United States Filter,Utilities
+UAL,Industrials
+Aleris,Basic Materials
+Allegheny Energy,Utilities
+Genzyme,Healthcare
+Paine Webber Group,Financial Services
+Betz Laboratories,Basic Materials
+Texas Utilities,Utilities
+Pennzoil-Quaker State,Consumer Defensive
+Warner Communications,Communication Services
+A. Schulman,Basic Materials
+KeySpan,Utilities
+Beckman Coulter,Technology
+American Family Ins. Grp.,Financial Services
+Harcourt General,Communication Services
+MBNA,Financial Services
+ATCOR,Healthcare
+Giddings & Lewis,Consumer Cyclical
+Conrail,Industrials
+Noble Energy,Energy
+Nextel Communications,Communication Services
+Caremark International,Healthcare
+Diamond Shamrock,Energy
+State Farm Insurance Cos,Financial Services
+Brinker International,Consumer Cyclical
+Lutheran Brotherhood,Financial Services
+Meritor Automotive,Industrials
+American Intl. Group,Financial Services
+Wisconsin Energy,Utilities
+Banta,Industrials
+Toys 'R' Us,Consumer Cyclical
+Knoll International Holdings,Industrials
+Stater Bros. Holdings,Consumer Defensive
+CC Media Holdings,Communication Services
+Shaw Group,Industrials
+Massey Energy,Energy
+Oregon Steel Mills,Basic Materials
+3Com,Technology
+U.S. Office Products,Industrials
+BrightPoint,Industrials
+Loctite,Basic Materials
+Mark IV Industries,Industrials
+Silgan Holdings,Consumer Cyclical
+Lincoln Electric Holdings,Industrials
+Brightpoint,Industrials
+ADC Telecommunications,Communication Services
+Sigma-Aldrich,Healthcare
+Magnetek,Industrials
+Rock-Tenn,Basic Materials
+Amoskeag,Consumer Cyclical
+Pacific Telesis Group,Communication Services
+Pope & Talbot,Basic Materials
+Blount,Industrials
+Laidlaw International,Financial Services
+Browning-Ferris Industries,Industrials
+Susser Holdings,Consumer Defensive
+Premark International,Industrials
+Allegiance,Industrials
+Northern Trust Corp.,Financial Services
+Uniroyal Goodrich Tire,Consumer Cyclical
+Mercantile Bancorp.,Financial Services
+Himont,Basic Materials
+Pepco Holdings,Consumer Defensive
+ShopKo Stores,Consumer Cyclical
+TransMontaigne,Energy
+Enron,Energy
+AXA Financial,Financial Services
+HealthTrust,Real Estate
+Airborne,Communication Services
+Helene Curtis Industries,Consumer Defensive
+Wells Fargo & Co.,Financial Services
+Newell Rubbermaid,Consumer Defensive
+Harrah's Entertainment,Consumer Cyclical
+Varity,Industrials
+Coca-Cola Bottling,Consumer Defensive
+Administaff,Industrials
+Beverly Enterprises,Healthcare
+FPL Group,Utilities
+GTE,Energy
+Georgia Gulf,Basic Materials
+AFG Industries,Financial Services
+Harte-Hanks Communications,Industrials
+Plains All Amer. Pipeline,Energy
+"MediaOne Group, Inc.",Communication Services
+United Services Automobile Association,Financial Services
+Corn Products International,Consumer Defensive
+Smith's Food & Drug Centers,Industrials
+WellChoice,Healthcare
+Cinergy,Utilities
+Ply Gem,Industrials
+Wesco International,Industrials
+Enbridge Energy Partners,Energy
+National City Corp.,Financial Services
+Thrifty PayLess Holdings,Consumer Defensive
+Huffy,Consumer Cyclical
+LG&E Energy,Utilities
+MetroPCS Communications,Communication Services
+Washington Group Intl.,Industrials
+CenturyTel,Communication Services
+IBP,Consumer Defensive
+Hughes Supply,Industrials
+GMAC,Financial Services
+Delphi,Consumer Cyclical
+Tonka,Consumer Cyclical
+John Hancock Financial Svcs.,Financial Services
+Countrywide Financial,Financial Services
+Plains Resources,Energy
+Gaylord Container,Basic Materials
+Kenner Parker Toys,Consumer Cyclical
+AMR,Basic Materials
+Thermo Electron,Healthcare
+Nash Finch,Consumer Defensive
+Crosstex Energy,Energy
+Centerior Energy,Utilities
+Conseco,Financial Services
+Circuit City Stores,Consumer Cyclical
+First Mississippi,NaN
+RPM International,Basic Materials
+Corporate Express,Industrials
+Maxxam,Basic Materials
+CHS Electronics,Technology
+Puget Energy,Utilities
+Thomas & Betts,Technology
+Golden State Bancorp,Financial Services
+Harbinger Group,Financial Services
+Meritor,Consumer Cyclical
+Federated Dept. Stores,Consumer Cyclical
+Nebco Evans,NaN
+Mylan,Healthcare
+Mirant,Utilities
+Echostar Communications,Technology
+National Steel,Basic Materials
+Legg Mason,Financial Services
+Sierra Pacific Resources,Utilities
+Ames Dept. Stores,Consumer Cyclical
+Emcor Group,Industrials
+Vector Group,Consumer Defensive
+Ace Hardware,Consumer Cyclical
+Reliance Electric,Industrials
+Boise Cascade Holdings,Basic Materials
+Primedia,Communication Services
+Exide Technologies,Industrials
+Dell,Technology
+Florida Progress,Utilities
+Continental Airlines,Industrials
+Circle K,Consumer Defensive
+ONEOK,Energy
+Aquila,Energy
+Alpha Natural Resources,Energy
+Miniscribe,Technology
+Rexene,Basic Materials
+Fairchild,Basic Materials
+Exelis,Healthcare
+Providian Financial,Financial Services
+Burlington Northern Santa Fe,Industrials
+Biogen Idec,Healthcare
+Triad Hospitals,Healthcare
+Baroid,Energy
+Domino Sugar,Consumer Defensive
+Longs Drug Stores,Consumer Defensive
+E.W. Scripps,Communication Services
+Mass. Mutual Life Ins.,Financial Services
+PepsiAmericas,Consumer Defensive
+Hilton Hotels,Consumer Cyclical
+MDC Holdings,Consumer Cyclical
+Intelligent Electronics,Technology
+Shaklee,Consumer Defensive
+Fleming,Consumer Defensive
+SSMC,Technology
+Jepson,Industrials
+CompUSA,Technology
+Centex,Real Estate
+Neiman Marcus,Consumer Cyclical
+Harvard Industries,Basic Materials
+Tyco Toys,Consumer Cyclical
+Burlington No. Santa Fe,Industrials
+Associates First Capital,Financial Services
+Realogy,Real Estate
+Payless Cashways,Consumer Cyclical
+Standard Products,Consumer Cyclical
+Dynegy,Utilities
+Golden West Financial,Financial Services
+Cone Mills,Consumer Cyclical
+SBC Communications,Communication Services
+Jacuzzi Brands,Consumer Cyclical
+J&L Specialty Steel,Basic Materials
+Electronic Arts,Communication Services
+Foster Wheeler,Industrials
+DIMON,Financial Services
+IMC Global,Basic Materials
+Great Atlantic & Pacific Tea,Consumer Defensive
+Idacorp,Utilities
+Wellman,Basic Materials
+UnumProvident,Financial Services
+Vanguard Health Systems,Healthcare
+Sudbury,Basic Materials
+Sun Microsystems,Technology
+LPL Technologies,Technology
+Spherion,Industrials
+Brooke Group,Financial Services
+Total Petroleum,Energy
+Cendant,Industrials
+Diamond-Bathurst,Basic Materials
+Uniroyal Chemical,Consumer Cyclical
+HD Supply,Industrials
+First Brands,Consumer Defensive
+Amerigroup,Healthcare
+Vista Chemical,Basic Materials
+NII Holdings,Communication Services
+Union Planters Corp.,Financial Services
+Henley Group,Industrials
+Solectron,Technology
+CA,Technology
+NYSE Euronext,Financial Services
+Continental,Consumer Cyclical
+Quantum,Technology
+Amalgamated Sugar,Consumer Defensive
+Envirodyne Industries,Basic Materials
+Catalyst Health Solutions,Healthcare
+ServiceMaster,Industrials
+Freeport-McMoRan Cpr. & Gld,Basic Materials
+General Re,Financial Services
+Sodexho Marriott Services,Industrials
+Imperial Sugar,Consumer Defensive
+FHP International,Healthcare
+Turner Corp.,Industrials
+FleetBoston Financial,Financial Services
+Winn-Dixie Stores,Consumer Defensive
+Coach,Consumer Cyclical
+Bank of New York Co.,Financial Services
+Sovereign Bancorp,Financial Services
+Ikon Office Solutions,Technology
+PolyOne,Basic Materials
+Host Marriott,Consumer Cyclical
+American Axle & Mfg.,Consumer Cyclical
+ITT,Industrials
+Essex Group,Real Estate
+Northeast Utilities,Utilities
+Hannaford Bros.,Consumer Defensive
+Marshall & Ilsley Corp.,Financial Services
+Staff Leasing,Industrials
+Caliber System,Industrials
+Valhi,Basic Materials
+Lennox International,Industrials
+Universal Health Svcs.,Healthcare
+Service Merchandise,Consumer Cyclical
+Avaya,Technology
+Cliffs Natural Resources,Basic Materials
+Oshkosh Truck,Industrials
+DIRECTV Group,Communication Services
+First Chicago Corp.,Financial Services
+Viad,Industrials
+Medco Health Solutions,Healthcare
+Steelcase,Industrials
+Pilgrim's Pride,Consumer Defensive
+SAIC,Technology
+AT&T Wireless Services,Communication Services
+Providian,Financial Services
+US West,Communication Services
+Kraft Foods,Consumer Defensive
+Chase Manhattan Corp.,Financial Services
+Lorillard,Consumer Defensive
+CIT Group,Financial Services
+May Dept. Stores,Consumer Cyclical
+Oaktree Capital Group,Financial Services
+United Stationers,Industrials
+Virgin Media,Communication Services
+Spartan Stores,Consumer Defensive
+American General,Financial Services
+DSC Communications,Technology
+Pullman,Industrials
+Avondale Industries,Industrials
+Safeco,Financial Services
+Allegheny Technologies,Industrials
+Actavis,Healthcare
+Western Atlas,Energy
+Morrison Knudsen,Industrials
+Homestake Mining,Basic Materials
+Tri Valley Growers,Consumer Defensive
+Stanhome,Consumer Defensive
+CB Richard Ellis Group,Real Estate
+Northwest Airlines,Industrials
+Intergraph,Technology
+Tambrands,Consumer Defensive
+RadioShack,Consumer Cyclical
+La-Z-Boy,Consumer Cyclical
+Fisher-Price,Consumer Cyclical
+Windstream,Communication Services
+Pacific Enterprises,Utilities
+YRC Worldwide,Industrials
+Trane,Industrials
+State St. Corp.,Financial Services
+Valspar,Basic Materials
+HCA,Healthcare
+Embarq,Communication Services
+Tredegar Industries,Industrials
+True Value,Consumer Cyclical
+Manitowoc,Industrials
+Pepsi Bottling,Consumer Defensive
+Walgreen,Healthcare
+Clevite Industries,Consumer Cyclical
+Enterprise GP Holdings,Energy
+Imo Industries,Energy
+Roundy's,Consumer Defensive
+NSTAR,Utilities
+Medtronic,Healthcare
+Service Corp. Intl.,Consumer Cyclical
+ACX Technologies,Basic Materials
+ProLogis,Real Estate
+Express Scripts,Healthcare
+Crystal Brands,Consumer Cyclical
+Pet,Consumer Defensive
+Prairie Farms Dairy,Consumer Defensive
+Electronic Data Systems,Technology
+Guidant,Healthcare
+Budget Group,Consumer Cyclical
+Horsehead Industries,Basic Materials
+Google,Communication Services
+College Retirement Equities Fund,Financial Services
+Ivax,Healthcare
+Wellpoint,Healthcare
+Stop & Shop,Consumer Defensive
+Salomon,Consumer Defensive
+Conner Peripherals,Technology
+Case,Industrials
+Atmos Energy,Utilities
+Morton International,Basic Materials
+Santa Fe Pacific,Industrials
+Bruno's,Consumer Cyclical
+Texas Industries,Technology
+NTL,Communication Services
+Bank One Corp.,Financial Services
+ProSource,Consumer Cyclical
+Dixie Yarns,Consumer Cyclical
+Core-Mark International,Consumer Defensive
+Southdown,Basic Materials
+Aristech Chemical,Basic Materials
+Sprint Nextel,Communication Services
+BellSouth,Communication Services
+Penn Traffic,Consumer Cyclical
+SLM,Financial Services
+Conoco,Energy
+Avis Rent A Car,Industrials
